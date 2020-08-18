@@ -1,4 +1,2 @@
-# myrepo
-Repo for practicing version control in R projects.
-
-This is a line from RStudio.
+# Practice Repo
+Repo for practicing version control with Git in R projects.
