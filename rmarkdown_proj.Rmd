@@ -2,7 +2,7 @@
 title: "My Rmarkdown project"
 author: "Lemi Taye"
 date: "8/18/2020"
-output: html_document
+output: github-document
 ---
 
 ```{r setup, include=FALSE}
